@@ -24,8 +24,19 @@
               "src/assets"
             ],
             "styles": [
-              "src/custom-theme.scss",
-              "src/styles.css"
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/animate.min.css",
+              "src/assets/css/fontawesome.min.css",
+              "src/assets/css/boxicons.min.css",
+              "src/assets/css/flaticon.css",
+              "src/assets/vendor/owl.carousel/assets/owl.carousel.min.css",
+              "src/assets/css/magnific-popup.min.css",
+              "src/assets/css/nice-select.css",
+              "src/assets/css/meanmenu.css",
+              "src/assets/css/progresscircle.min.css",            
+              "src/assets/css/style.css",                                 
+              "src/assets/css/responsive.css",                   
+              "src/custom-theme.scss" 
             ],
             "scripts": []
           },

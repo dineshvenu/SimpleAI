@@ -1,0 +1,66 @@
+h1.main-banner-content-new {
+    font-family: "Dosis", sans-serif;
+    color: #ffffff;
+    margin-bottom: 0;
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-top: 0;
+    }
+    p.main-banner-content-new {
+        color: #ffffff;
+        font-size: 14.5px;
+        max-width: 620px;
+        margin-top: 10px;
+        margin-bottom: 0;
+        line-height: 1.8;
+    }
+    h2.section-title-new {
+        margin-bottom: 0;
+        font-size: 40px;
+        font-weight: 700;
+        color: #333333;
+        font-family: "Dosis", sans-serif;
+        line-height: 1.2;
+    }
+    p.section-title-new{
+        max-width: 520px;
+        margin-bottom: 0;
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 1.8;
+        color: #57647c;
+    }
+    h3.single-featured-solutions-new {
+        margin-bottom: 0;
+        font-size: 23px;
+        font-weight: 700;
+        color: #333333;
+        font-family: "Dosis", sans-serif;
+        line-height: 1.2;
+    }
+    @media only screen and (max-width: 767px) {
+        h1.main-banner-content-new {
+            font-size: 40px;
+            line-height: 1.1;
+        }
+        p.main-banner-content-new {
+            font-size: 13px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        h2.section-title-new {
+            font-size: 28px;
+        }
+       
+        p.section-title-new{
+            max-width: 100%;
+            margin-left: 0;
+            margin-right: 0;
+            font-size: 13px;
+        }
+        h3.single-featured-solutions-new {
+            font-size: 19px;
+        }
+    }
